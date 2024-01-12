@@ -1,0 +1,7 @@
+@inproceedings{REPO089,
+    author = "Li, Feng and Zhang, Hao and Liu, Shilong and Guo, Jian and Ni, Lionel M and Zhang, Lei",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "13619--13627",
+    title = "{DN-DETR: Accelerate DETR Training by Introducing Query DeNoising}",
+    year = "2022"
+}
